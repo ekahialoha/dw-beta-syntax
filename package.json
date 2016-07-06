@@ -6,7 +6,12 @@
   "description": "Based off of the dark theme in Dreamweaver",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "dark",
+    "dreamweaver",
+    "css",
+    "html",
+    "php"
   ],
   "repository": "https://github.com/avalanchedesigns/dw-beta-syntax",
   "license": "MIT",
