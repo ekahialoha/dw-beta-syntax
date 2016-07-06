@@ -2,4 +2,4 @@
 
 An Atom Syntax theme based off of the dark theme in Dreamweaver
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of your theme](https://www.dropbox.com/s/n568mlmdaaju2q0/dw-beta-theme.png?dl=0)
