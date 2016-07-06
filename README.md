@@ -1,4 +1,4 @@
-# dw-beta-syntax theme
+# DW Beta theme
 
 An Atom Syntax theme based off of the dark theme in Dreamweaver
 
